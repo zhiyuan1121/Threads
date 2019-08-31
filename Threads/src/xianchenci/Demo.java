@@ -21,6 +21,6 @@ public class Demo {
             });
         }
         //关闭线程池
-        service.shutdown();
+//        service.shutdown();
     }
 }
